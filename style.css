@@ -922,7 +922,7 @@ body {
     .box_tittle {
         position: relative;         
         top: 22px;
-        left: 8px!important; 
+        left: 4px!important; 
         font-size: 28px;
         transform: scale(0.9)   
     }
